@@ -1,5 +1,3 @@
-# semsterlmddz
-حساب معدل جامعي 
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
